@@ -29,7 +29,7 @@
 
 | Home Page | Search Results |
 |-----------|---------------|
-| ![Home](<img width="1922" height="11898" alt="Travel-Canvass-Holidays-Your-Ultimate-Travel-Planner1" src="https://github.com/user-attachments/assets/736680d6-eba0-4275-98d6-1281271596b9" />) | ![Search](<img width="1922" height="4658" alt="Travel-Canvass-Holidays-Your-Ultimate-Travel-Planner2" src="https://github.com/user-attachments/assets/63dfc339-4c32-447d-83b3-76da6c631f27" />
+| ![Home] (<img width="1922" height="11898" alt="Travel-Canvass-Holidays-Your-Ultimate-Travel-Planner1" src="https://github.com/user-attachments/assets/736680d6-eba0-4275-98d6-1281271596b9" />) | ![Search](<img width="1922" height="4658" alt="Travel-Canvass-Holidays-Your-Ultimate-Travel-Planner2" src="https://github.com/user-attachments/assets/63dfc339-4c32-447d-83b3-76da6c631f27" />
 ) |
 
 | Hotel Booking | Tour Packages |
@@ -40,7 +40,7 @@
 
 | Admin Dashboard | Booking Management |
 |----------------|-------------------|
-| ![Dashboard](<img width="1899" height="889" alt="Adminsuit" src="https://github.com/user-attachments/assets/04b567c5-0502-4fc4-8389-26b933669cee" />) | ![Bookings](<img width="1899" height="889" alt="Cars" src="https://github.com/user-attachments/assets/cd399060-d95d-4b79-82a0-a76287e08800" />
+| ![Dashboard] (<img width="1899" height="889" alt="Adminsuit" src="https://github.com/user-attachments/assets/04b567c5-0502-4fc4-8389-26b933669cee" />) | ![Bookings](<img width="1899" height="889" alt="Cars" src="https://github.com/user-attachments/assets/cd399060-d95d-4b79-82a0-a76287e08800" />
 ) |
 
 ---
